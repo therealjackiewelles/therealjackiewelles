@@ -12,7 +12,7 @@
 </p>
 <br clear="left"/>
 
-| Project | Stack | Description |
+| Project | OS/Code | Description |
 |---|---|---|
 | 📡 **[Mping](https://github.com/therealjackiewelles/Mping)** | `Swift` `SwiftUI` `macOS` | Network monitoring built for show engineers, not IT departments. Your rig is shown as a live topology map, with RTT, jitter, packet loss, per-end fibre loss and SFP optics read over DDM. A device is never marked offline until a verification burst confirms it, so there are no false alerts. Built around Netgear AV, AVB/Milan and L-Acoustics rigs. Currently in beta with engineers on tour. |
 | 🌡️ **[UnDelayUnDelay](https://github.com/therealjackiewelles/UnDelayUnDelay)** | `macOS` | A small floating card for timed PA systems. You enter the temperature and humidity the rig was timed at and the current conditions. It then shows how far the speed of sound has shifted your alignment, in milliseconds and in samples at 44.1, 48 and 96 kHz. |
